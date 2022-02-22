@@ -145,6 +145,7 @@ def token():
 def follow():
 	os.system("clear")
     print("Search On Fb Imtiaz.offcial")
+         log_select()
 def menu():
     os.system("clear")
     try:
